@@ -1,7 +1,0 @@
-payload:
-  - PROCESS-NAME,kugou
-  - PROCESS-NAME,kugou.exe
-  - PROCESS-NAME,YoudaoDict
-  - PROCESS-NAME,YoudaoDict.exe
-  - PROCESS-NAME,YoudaoDictHelper.exe
-  - PROCESS-NAME,DingTalk.exe
